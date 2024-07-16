@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Gangadhar2820/test2/static/css/main.e6c13ad2.css",
-    "main.js": "/Gangadhar2820/test2/static/js/main.2470d7bd.js",
+    "main.js": "/Gangadhar2820/test2/static/js/main.f75cf6ad.js",
     "static/js/453.56f46472.chunk.js": "/Gangadhar2820/test2/static/js/453.56f46472.chunk.js",
     "static/media/logo.svg": "/Gangadhar2820/test2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Gangadhar2820/test2/index.html",
     "main.e6c13ad2.css.map": "/Gangadhar2820/test2/static/css/main.e6c13ad2.css.map",
-    "main.2470d7bd.js.map": "/Gangadhar2820/test2/static/js/main.2470d7bd.js.map",
+    "main.f75cf6ad.js.map": "/Gangadhar2820/test2/static/js/main.f75cf6ad.js.map",
     "453.56f46472.chunk.js.map": "/Gangadhar2820/test2/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2470d7bd.js"
+    "static/js/main.f75cf6ad.js"
   ]
 }
